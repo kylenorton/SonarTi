@@ -2,7 +2,7 @@
 var Ti;
 
 // this sets the background color of the master UIView (when there are no windows/tab groups on it)
-Ti.UI.setBackgroundColor('#414444');
+Ti.UI.setBackgroundColor('#a3c2e0');
 
 Ti.include(
 	// Sonar libraries
